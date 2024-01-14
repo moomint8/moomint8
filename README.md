@@ -10,14 +10,21 @@
 ---
 
 <div align="center">
-  <img align="left" height=150 src="https://github-readme-stats.vercel.app/api?username=moomint8&show_icons=true&locale=en" alt="moomint8" />
-  <img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=moomint8&show_icons=true&locale=en&layout=compact" alt="moomint8" />
+  
+  ## GitHub
+  
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=moomint8&show_icons=true&locale=en" alt="moomint8" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=moomint8&show_icons=true&locale=en&layout=compact" alt="moomint8" />
+</div>
+
+<div align="center">
+
+  ## CodeTest
+  <a href="https://solved.ac/office05053"><img height=150 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=office05053&theme=dark"/></a>
 </div>
 
 ---
 
-<a href="https://solved.ac/office05053"><img align="right" height=150 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=office05053&theme=dark"/></a>
-  
 ## Once I've Used
 
 #### Language
