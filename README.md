@@ -20,7 +20,7 @@
 <div align="center">
 
   ## CodeTest
-  <a href="https://solved.ac/office05053"><img height=150 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=office05053&theme=dark"/></a>
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=office05053)](https://solved.ac/office05053)
 </div>
 
 ---
