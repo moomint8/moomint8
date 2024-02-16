@@ -2,7 +2,7 @@
   <img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6607b00c-3d5f-407c-8ac3-44690b760b38%2F8a3b6658-a417-46dd-8591-c6590816c263%2F%25EB%25AC%25B4%25EB%25AF%25BC%25ED%258A%25B8_%25EB%25B0%25B0%25EA%25B2%25BDx.png?table=block&id=8c42807d-e5b6-4cc2-9a0a-7f0dbce9f6c6&spaceId=6607b00c-3d5f-407c-8ac3-44690b760b38&width=100&userId=5ed1630f-0abe-45f3-a1f5-e6fad77f9dc2&cache=v2">
   
   # Welcome to Moomint's GitHub!
-  #### 열정을 함께하는 여정
+  ### 열정을 함께하는 여정
   
   <a href="https://hollow-respect-2b5.notion.site/DevStory-of-Moomint-8c42807de5b64cc29a0a7f0dbce9f6c6">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
