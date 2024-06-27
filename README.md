@@ -68,20 +68,6 @@
 
 ---
 
-## I want to learn 📚
-
-#### Language
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java" alt="Java 뱃지" />
-
-#### ORM
-<img src="https://img.shields.io/badge/JPA-6DB39F?style=for-the-badge&logo=JPA" alt="JPA 뱃지" />
-
-#### Hosting
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
 ## 💻 Workspace Specs
 <img src="https://img.shields.io/badge/NVIDIA-GTX1660Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 
