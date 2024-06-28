@@ -22,11 +22,14 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=moomint8&show_icons=true&locale=en&layout=compact" alt="moomint8" />
 </div>
 
+<!--
 <div align="center">
 
   ## CodeTest
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=office05053)](https://solved.ac/office05053)
 </div>
+
+-->
 
 ---
 
