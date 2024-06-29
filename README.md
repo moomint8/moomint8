@@ -3,10 +3,12 @@
   
   # Welcome to Moomint's GitHub!
   ### 열정을 함께하는 여정
-  
+
+  <!--
   <a href="https://hollow-respect-2b5.notion.site/DevStory-of-Moomint-8c42807de5b64cc29a0a7f0dbce9f6c6">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   </a>
+-->
   <a href="mailto:office05053@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mox9nox@gmail.com">
   </a>
